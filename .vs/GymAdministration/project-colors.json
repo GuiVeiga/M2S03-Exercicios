@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9cd95164-5a7e-46d2-9b17-89af5b5658a2": {
+      "ProjectGuid": "9cd95164-5a7e-46d2-9b17-89af5b5658a2",
+      "DisplayName": "GymAdministration.Core",
+      "ColorIndex": 0
+    },
+    "52be346c-107f-4782-8ff4-bad3033b8125": {
+      "ProjectGuid": "52be346c-107f-4782-8ff4-bad3033b8125",
+      "DisplayName": "GymAdministrationConsole",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

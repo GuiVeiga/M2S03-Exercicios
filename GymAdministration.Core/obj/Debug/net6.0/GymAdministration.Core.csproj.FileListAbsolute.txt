@@ -1,0 +1,12 @@
+C:\Users\guilh\Documents\C# .NET\GymAdministration\GymAdministration.Core\bin\Debug\net6.0\GymAdministration.Core.deps.json
+C:\Users\guilh\Documents\C# .NET\GymAdministration\GymAdministration.Core\bin\Debug\net6.0\GymAdministration.Core.dll
+C:\Users\guilh\Documents\C# .NET\GymAdministration\GymAdministration.Core\bin\Debug\net6.0\ref\GymAdministration.Core.dll
+C:\Users\guilh\Documents\C# .NET\GymAdministration\GymAdministration.Core\bin\Debug\net6.0\GymAdministration.Core.pdb
+C:\Users\guilh\Documents\C# .NET\GymAdministration\GymAdministration.Core\obj\Debug\net6.0\GymAdministration.Core.csproj.AssemblyReference.cache
+C:\Users\guilh\Documents\C# .NET\GymAdministration\GymAdministration.Core\obj\Debug\net6.0\GymAdministration.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\C# .NET\GymAdministration\GymAdministration.Core\obj\Debug\net6.0\GymAdministration.Core.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\C# .NET\GymAdministration\GymAdministration.Core\obj\Debug\net6.0\GymAdministration.Core.AssemblyInfo.cs
+C:\Users\guilh\Documents\C# .NET\GymAdministration\GymAdministration.Core\obj\Debug\net6.0\GymAdministration.Core.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\C# .NET\GymAdministration\GymAdministration.Core\obj\Debug\net6.0\GymAdministration.Core.dll
+C:\Users\guilh\Documents\C# .NET\GymAdministration\GymAdministration.Core\obj\Debug\net6.0\ref\GymAdministration.Core.dll
+C:\Users\guilh\Documents\C# .NET\GymAdministration\GymAdministration.Core\obj\Debug\net6.0\GymAdministration.Core.pdb
